@@ -10,4 +10,4 @@ Android based game: Save the bunny
 
 
 
-Проект собирался в Android studio.
+Проект собирался в Android Studio Electric Eel | 2022.1.1 Patch 2
